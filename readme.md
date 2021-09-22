@@ -2,14 +2,15 @@
 
 ## We all have our own unique quirks! For some, it's the way they talk, for others, the way they dress. For developers, it's their Github profiles.
 Oh yeah, I haven't even said my name?
-Well, I'm Natan Ceballos and I like to develop software. <br>
+Well, I'm Natan Ceballos and I like to develop software. 
+
 It's as simple as that.
 
 I'm currently studying Computer Science at New Jersey City University.
 
 I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
 
-I'm passionate about **Front End and Backend** development and love to **write code**.
+I'm passionate about **Front End & Backend** development and love to **write code**.
 
 <br>
 
@@ -27,7 +28,7 @@ My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tik
 
 <br>
 
-<img width="350" height="300" align="left" src="./smile-bottom-avatar.svg">
+<img width="300" height="200" align="left" src="./smile-bottom-avatar.svg">
 
 I mostly write **React**. 
 See my _pinned repositories_ below.
