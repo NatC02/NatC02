@@ -18,11 +18,11 @@ I'm passionate about **Front End & Backend** development and **love** to **write
 
 ## Hobbies and Interests
 
-At the moment, I'm a big fan of "Masters of Scale." Someone recommended it to me, so I thought I should give it a listen. It's a fantastic podcast in which the host interviews entrepreneurs who tell how they grew their company from nothing to something great!
+I'm a fan of "Masters of Scale." Someone recommended it to me, so I thought I should give it a listen. It's a fantastic podcast in which the host interviews entrepreneurs who tell how they grew their company from nothing to something great!
 
 Juggling and learning how to solve Sudoku puzzles every once in a blue moon.
 
-My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tikal), and he has something new going on with each of his broadcasts! That said, I only tune in to his "YouTube Night" streams.
+My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tikal), and he has something new going on with each of his broadcasts!
 
 <br>
 
