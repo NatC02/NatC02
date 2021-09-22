@@ -5,11 +5,11 @@ Oh yeah, I haven't even said my name?
 Well, I'm Natan Ceballos and I like to develop software. <br>
 It's as simple as that.
 
-I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
-
 I'm currently studying Computer Science at New Jersey City University.
 
-I'm someone who is passionate about **Front End and Backend** development and likes to **write code**.
+I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
+
+I'm passionate about **Front End and Backend** development and love to **write code**.
 
 <br>
 
