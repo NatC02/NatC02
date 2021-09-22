@@ -28,7 +28,7 @@ My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tik
 
 <br>
 
-<img width="325" height="250" align="left" src="./smile-bottom-avatar.svg">
+<img width="325" height="250" align="center" src="./smile-bottom-avatar.svg">
 
 I mostly write **React**. 
 See my _pinned repositories_ below.
