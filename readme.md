@@ -10,7 +10,7 @@ I'm currently studying Computer Science at New Jersey City University.
 
 I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
 
-I'm passionate about **Front End & Backend** development and love to **write code**.
+I'm passionate about **Front End & Backend** development and **love** to **write code**.
 
 <br>
 
@@ -28,7 +28,7 @@ My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tik
 
 <br>
 
-<img width="300" height="200" align="left" src="./smile-bottom-avatar.svg">
+<img width="325" height="250" align="left" src="./smile-bottom-avatar.svg">
 
 I mostly write **React**. 
 See my _pinned repositories_ below.
