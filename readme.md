@@ -1,10 +1,9 @@
 <img width="350" height="300" align="left" src="./smile-left-avatar.svg">
 
 ## We all have our own unique quirks! For some, it's the way they talk, for others, the way they dress. For developers, it's their Github profiles.
-
 Oh yeah, I haven't even said my name?
-
-Well, I'm Natan Ceballos and I like to develop software. It's as simple as that.
+Well, I'm Natan Ceballos and I like to develop software. <br>
+It's as simple as that.
 
 I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
 
