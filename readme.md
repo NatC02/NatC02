@@ -10,7 +10,7 @@ I'm currently studying Computer Science at New Jersey City University.
 
 I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
 
-I'm passionate about **Front End & Backend** development and **love** to **write code**.
+I'm passionate about **Front End & Full Stack** development and **love** to **write code**.
 
 <br>
 
