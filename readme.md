@@ -24,8 +24,6 @@ See my _pinned repositories_ below.
 
 <br>
 
-<br>
-
 Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br>
 
 Feel free to reach me out to me on
@@ -40,8 +38,6 @@ Oh yeah, I haven't even said my name?
 Well, I'm Natan Ceballos and I like to develop software.
 
 <img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02"/>
-
-
 
 It's as simple as that.
 
