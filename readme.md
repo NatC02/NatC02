@@ -21,7 +21,6 @@ See my _pinned repositories_ below.
 - [NPM Audio Recorder](https://github.com/NatC02/audioRecorderNPM/) - An audio recorder in the browser and plays back audio.
 
 - [Small Flexbox and Grid demo](https://github.com/NatC02/CRFlexBoxGrid/tree/master) - A very very small demo of flexbox and grid.
-
 <br>
 
 Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br>
