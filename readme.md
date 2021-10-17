@@ -16,9 +16,10 @@ See my _pinned repositories_ below.
 
 - [Login and Registration Node](https://github.com/NatC02/loginRegistrationNode) - A localhost Node login project using Express, Passport, Handlebars, and Mongoose.
 
+- [Gatsby Portfolio](https://github.com/NatC02/portfolio/) - Single page Gatsby portfolio website hosted on Netlify.
+
 - As part of the [New Jersey Institute of Technology Real World Connections Program](https://rwcconnections.com/): Mount Olive Track during July 2020, I voluntereed my time as a Co-Coach to inspire Middle School students to seek a career in tech by teaching them HTML & CSS. They created [this website](https://final-presentation.priscilla11.repl.co/), deployed on repl.it.
 
-- [Gatsby Portfolio](https://github.com/NatC02/portfolio/) - Single page Gatsby portfolio website hosted on Netlify.
 
 - [NPM Audio Recorder](https://github.com/NatC02/audioRecorderNPM/) - An audio recorder in the browser and plays back audio.
 
