@@ -23,11 +23,11 @@ See my _pinned repositories_ below.
 - [Small Flexbox and Grid demo](https://github.com/NatC02/CRFlexBoxGrid/tree/master) - A very very small demo of flexbox and grid.
 <br>
 
-Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br>
+<!-- Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br> -->
 
 Feel free to reach me out to me on
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-c-66b1a6187/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-ceballos-66b1a6187/)
 
 <img width="350" height="300" align="left" src="./smile-left-avatar.svg">
 
