@@ -39,7 +39,7 @@ Feel free to reach me out to me on
 Oh yeah, I haven't even said my name?
 Well, I'm Natan Ceballos and I like to develop software.
 
-<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02&theme=dark"/>
+<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02&theme=merko"/>
 
 It's as simple as that.
 
@@ -53,7 +53,7 @@ I'm passionate about **Front End & Full Stack** development and **love** to **wr
 
 <img width="250" height="180" align="right" src="./smile-right-avatar.svg">
 
-<img width='225' height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatC02"/>
+<img width='225' height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatC02&theme=merko"/>
 
 ## Hobbies and Interests
 
