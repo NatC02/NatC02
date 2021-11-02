@@ -39,7 +39,7 @@ Feel free to reach me out to me on
 Oh yeah, I haven't even said my name?
 Well, I'm Natan Ceballos and I like to develop software.
 
-<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02&theme=radical"/>
+<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02&theme=dark"/>
 
 It's as simple as that.
 
