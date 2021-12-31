@@ -16,18 +16,21 @@ See my _pinned repositories_ below.
 
 - [Login and Registration Node](https://github.com/NatC02/loginRegistrationNode) - A localhost Node login project using Express, Passport, Handlebars, and Mongoose.
 
+- [Gatsby Portfolio](https://github.com/NatC02/portfolio/) - Single page Gatsby portfolio website hosted on Netlify.
+
 - As part of the [New Jersey Institute of Technology Real World Connections Program](https://rwcconnections.com/): Mount Olive Track during July 2020, I voluntereed my time as a Co-Coach to inspire Middle School students to seek a career in tech by teaching them HTML & CSS. They created [this website](https://final-presentation.priscilla11.repl.co/), deployed on repl.it.
+
 
 - [NPM Audio Recorder](https://github.com/NatC02/audioRecorderNPM/) - An audio recorder in the browser and plays back audio.
 
 - [Small Flexbox and Grid demo](https://github.com/NatC02/CRFlexBoxGrid/tree/master) - A very very small demo of flexbox and grid.
 <br>
 
-Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br>
+<!-- Soon I will begin writing a [blog](https://github.com/NatC02/jamstack-portfolio) on my JAMstack website. <br> -->
 
 Feel free to reach me out to me on
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-ceballos-66b1a6187)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-ceballos-66b1a6187/)
 
 <img width="350" height="300" align="left" src="./smile-left-avatar.svg">
 
@@ -36,7 +39,7 @@ Feel free to reach me out to me on
 Oh yeah, I haven't even said my name?
 Well, I'm Natan Ceballos and I like to develop software.
 
-<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02"/>
+<img width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=NatC02&theme=chartreuse-dark"/>
 
 It's as simple as that.
 
@@ -50,7 +53,7 @@ I'm passionate about **Front End & Full Stack** development and **love** to **wr
 
 <img width="250" height="180" align="right" src="./smile-right-avatar.svg">
 
-<img width='225' height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatC02"/>
+<img width='225' height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatC02&theme=chartreuse-dark"/>
 
 ## Hobbies and Interests
 
