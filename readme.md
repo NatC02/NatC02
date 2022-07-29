@@ -18,7 +18,7 @@ See my _pinned repositories_ below.
 
 - [What will our future look like if everyone spoke in gobblydygook? By Openai's GPT-3.](https://github.com/NatC02/doublespeak) - A node express js frontend tool that utilizes OpenAI's completition API endpoint to generate "nothing burgers" based on "plain english" inputs.
 
-- [PWA React Grid Game](https://github.com/NatC02/loginRegistrationNode) - A React Progressive Web App of a grid game, with useEffect hook, useState hook, and a custom hook component on a grid of cards for the matching game.
+- [PWA React Grid Game](https://github.com/NatC02/pwa-grid-memory-game) - A React Progressive Web App of a grid game, with useEffect hook, useState hook, and a custom hook component on a grid of cards for the matching game.
 
 - [Login and Registration Node](https://github.com/NatC02/loginRegistrationNode) - A localhost Node login project using Express, Passport, Handlebars, and Mongoose.
 
