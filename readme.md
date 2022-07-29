@@ -6,6 +6,8 @@ See my _pinned repositories_ below.
 
 ## Freelance Work
 
+- [The Den Social Web App](https://den-blog-prod.vercel.app/) - The Den is the perfect place to connect with other like-minded individuals and share your knowledge with the world!
+
 - [React Sephardic Center](https://natc02.github.io/sephardicCenter/home) - Converted Wordpress website to React.
 
 ## Scientific Research:
@@ -13,6 +15,10 @@ See my _pinned repositories_ below.
 - [C02 Meter with Arduino for Environmental Study](https://github.com/NatC02/CO2Meter) - Made an Arduino kit that measures CO2.
 
 ## Projects:
+
+- [What will our future look like if everyone spoke in gobblydygook? By Openai's GPT-3.](https://github.com/NatC02/doublespeak) - A node express js frontend tool that utilizes OpenAI's completition API endpoint to generate "nothing burgers" based on "plain english" inputs.
+
+- [PWA React Grid Game](https://github.com/NatC02/loginRegistrationNode) - A React Progressive Web App of a grid game, with useEffect hook, useState hook, and a custom hook component on a grid of cards for the matching game.
 
 - [Login and Registration Node](https://github.com/NatC02/loginRegistrationNode) - A localhost Node login project using Express, Passport, Handlebars, and Mongoose.
 
@@ -112,7 +118,5 @@ My favorite Twitch streamer is [MoistCritikal](https://www.twitch.tv/moistcr1tik
 ![](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
-
-Is there a fish that tastes better than chicken?
 
 </div>
