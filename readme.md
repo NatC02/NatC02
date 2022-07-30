@@ -10,6 +10,8 @@ See my _pinned repositories_ below.
 
 - [React Sephardic Center](https://natc02.github.io/sephardicCenter/home) - Converted Wordpress website to React.
 
+- [My Personal Blog](https://natc02.github.io/blog/) - Writing informative and engaging blog posts about various aspects of web development.
+
 ## Scientific Research:
 
 - [C02 Meter with Arduino for Environmental Study](https://github.com/NatC02/CO2Meter) - Made an Arduino kit that measures CO2.
@@ -17,6 +19,8 @@ See my _pinned repositories_ below.
 ## Projects:
 
 - [What will our future look like if everyone spoke in gobblydygook? By Openai's GPT-3.](https://github.com/NatC02/doublespeak) - A node express js frontend tool that utilizes OpenAI's completition API endpoint to generate "nothing burgers" based on "plain english" inputs.
+
+- [Client-server-search feature in Node](https://github.com/NatC02/client-server-search-feature) - A node express search feature w/ chance.
 
 - [PWA React Grid Game](https://github.com/NatC02/pwa-grid-memory-game) - A React Progressive Web App of a grid game, with useEffect hook, useState hook, and a custom hook component on a grid of cards for the matching game.
 
@@ -50,8 +54,6 @@ Well, I'm Natan Ceballos and I like to develop software.
 It's as simple as that.
 
 I'm currently studying Computer Science at New Jersey City University.
-
-I'm a **Freelance Web Developer** and **Front End Software Engineer** at [Bhorosha Nonprofit Corganization](https://bhoroshabangladesh.mystrikingly.com/).
 
 I'm passionate about **Front End & Full Stack** development and **love** to **write code**.
 
