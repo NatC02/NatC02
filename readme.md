@@ -10,9 +10,9 @@ See my _pinned repositories_ below.
 
 - [React Sephardic Center](https://natc02.github.io/sephardicCenter/home) - Converted client Wordpress website to React.
 
-- [My Personal Blog](https://natc02.github.io/blog/) - Writing informative and engaging blog posts about various aspects of web development.
+- [My Personal Blog](https://natc02-blog.vercel.app/) - Writing informative and engaging blog posts about various aspects of web development.
 
-- [WIP]() - Gatsby website with internalization support for ministerial organization.
+- [WIP]() - Gatsby website with internalization support for organization.
 
 ## Scientific Research:
 
