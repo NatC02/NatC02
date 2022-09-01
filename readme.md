@@ -20,6 +20,8 @@ See my _pinned repositories_ below.
 
 ## Projects:
 
+- [Frontend Web App Landing page concept](https://github.com/NatC02/dime_dozen_bank_concept) - A concept banking home page using Tailwind CSS, React, Vite, and deployment on firebase.
+
 - [What will our future look like if everyone spoke in gobblydygook? By Openai's GPT-3.](https://github.com/NatC02/doublespeak) - A node express js frontend tool that utilizes OpenAI's completition API endpoint to generate "nothing burgers" based on "plain english" inputs.
 
 - [Client-server-search feature in Node](https://github.com/NatC02/client-server-search-feature) - A node express search feature w/ chance.
