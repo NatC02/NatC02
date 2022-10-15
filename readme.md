@@ -22,7 +22,9 @@ See my _pinned repositories_ below.
 
 - [Frontend Web App Landing page concept](https://github.com/NatC02/dime_dozen_bank_concept) - A concept banking home page using Tailwind CSS, React, Vite, and deployment on firebase.
 
-- [GrepLynk](https://den-blog-prod.vercel.app/) - Greplynk is a premier residential housing platform built with React with a mobile first approach to design!
+- [React Client Rating System](https://github.com/NatC02/rating-system) - A client-side rating system feature utilizing stateful logic.
+
+- [GrepLynk](https://greplynk.vercel.app/) - Greplynk is a premier residential housing platform built with React with a mobile first approach to design!
 
 - [Client-server-search feature in Node](https://github.com/NatC02/client-server-search-feature) - A node express search feature w/ chance.
 
