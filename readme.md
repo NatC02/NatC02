@@ -145,6 +145,6 @@ My favorite Youtuber is [Penguinz0 / MoistCritical](https://www.twitch.tv/moistc
 * History
 * Public Speaking
 * Hosting Workshops
-* Coding (Implicit)
+* Coding
 * Reading (Docs and Books)
 * Tennis
