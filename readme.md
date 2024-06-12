@@ -130,7 +130,7 @@ I like:
 * Art exhibitions
 * Museums
 * Bookstores
-* Ambiant Cafes
+* Ambient Cafes
 
 I'm a fan of "Masters of Scale." Recommended by a friend. I gave it several listens. Fantastic podcast. Host interviews entrepreneurs who tell how they grew their company from nothing to something great!
 
