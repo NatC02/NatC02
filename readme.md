@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [three-tennis-dissolve](https://github.com/NatC02/threejs-tennis-dissolve-effect) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
+
 - [Comfy-er Seats](https://github.com/NatC02/comfy-er-seats/) - Comfy-er Seats is a book ticketing app to enjoy cinema with friends.
 
 - [The Den Social Web App](https://den-blog-prod.vercel.app/) - The Den is the perfect place to connect with other like-minded individuals and share your knowledge with the world.
