@@ -4,7 +4,7 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
-- [quiet-dynamic-cafe](https://github.com/NatC02/quiet-dynamic-cafe) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
+- [quiet-dynamic-cafe](https://github.com/NatC02/quiet-dynamic-cafe) - R3F cafe with sun rotational sun lighting for a simulated day / night cycle.
 
 - [three-tennis-dissolve](https://github.com/NatC02/threejs-tennis-dissolve-effect) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
 
