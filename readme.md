@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [quiet-dynamic-cafe](https://github.com/NatC02/quiet-dynamic-cafe) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
+
 - [three-tennis-dissolve](https://github.com/NatC02/threejs-tennis-dissolve-effect) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
 
 - [Comfy-er Seats](https://github.com/NatC02/comfy-er-seats/) - Comfy-er Seats is a book ticketing app to enjoy cinema with friends.
