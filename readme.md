@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [flash-plane](https://github.com/NatC02/flash-plane) - A dynamic, interactive grid to place and remove 3D objects.
+
 - [quiet-dynamic-cafe](https://github.com/NatC02/quiet-dynamic-cafe) - R3F cafe with rotational sun lighting for a simulated day / night cycle.
 
 - [three-tennis-dissolve](https://github.com/NatC02/threejs-tennis-dissolve-effect) - Threejs implementation to dissolve a tennis racket combining custom shaders and particle systems.
