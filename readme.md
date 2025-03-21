@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [camera-perspective](https://github.com/NatC02/camera-perspective) - Interactive lense barrel featuring manga shader with blur post fx and lens flare.
+
 - [flash-plane](https://github.com/NatC02/flash-plane) - A dynamic, interactive grid to place and remove 3D objects.
 
 - [quiet-dynamic-cafe](https://github.com/NatC02/quiet-dynamic-cafe) - R3F cafe with rotational sun lighting for a simulated day / night cycle.
