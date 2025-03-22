@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [moths-around-light](https://github.com/NatC02/moths-around-light) - Lamp, moths, do I need say more?.
+
 - [camera-perspective](https://github.com/NatC02/camera-perspective) - Interactive lense barrel featuring manga shader with blur post fx and lens flare.
 
 - [flash-plane](https://github.com/NatC02/flash-plane) - A dynamic, interactive grid to place and remove 3D objects.
