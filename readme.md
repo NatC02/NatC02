@@ -4,7 +4,7 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
-- [moths-around-light](https://github.com/NatC02/moths-around-light) - This is exactly what it sounds like.
+- [moths-around-light](https://github.com/NatC02/moths-around-light) - Explains itself.
 
 - [camera-perspective](https://github.com/NatC02/camera-perspective) - Interactive lense barrel featuring manga shader with blur post fx and lens flare.
 
