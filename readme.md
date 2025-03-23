@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [millions-die-or-saved-idk](https://github.com/NatC02/millions-die-or-saved-idk) - Adjusting ALOT of objects LOD (level of detail) based on camera distance.
+
 - [moths-around-light](https://github.com/NatC02/moths-around-light) - Explains itself.
 
 - [camera-perspective](https://github.com/NatC02/camera-perspective) - Interactive lense barrel featuring manga shader with blur post fx and lens flare.
