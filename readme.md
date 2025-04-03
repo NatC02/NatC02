@@ -4,7 +4,20 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
-- [landing](https://github.com/NatC02/landing) - A humanoid creature falling and landing.
+
+- [invincible-title-card](https://github.com/NatC02/Invincible-title-card) - Season 1 title card recreated.
+
+- [special-watch](https://github.com/NatC02/special-watch) - A simulator for a character whose name rhymes with ten.
+
+- [glb-freeze](https://github.com/NatC02/glb-freeze) - Freezing glb object with animations so its pose doesn't restart after.
+
+- [shape-shaders](https://github.com/NatC02/shape-shaders) - Applying shaders dependent on orientation first.
+
+- [squishy-tely](https://github.com/NatC02/squishy-telephone) - A telephone that is bendy when you move it.
+
+- [eyes](https://github.com/NatC02/eyes) - Robo head with tracking eyes and wiggling antenna.
+
+- [falling](https://github.com/NatC02/falling) - A creature from one of my favorite interactive stories.
 
 - [millions-die-or-saved-idk](https://github.com/NatC02/millions-die-or-saved-idk) - Adjusting ALOT of objects LOD (level of detail) based on camera distance.
 
