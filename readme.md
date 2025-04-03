@@ -4,7 +4,7 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
-- [you-know-who-else-likes-to](https://github.com/NatC02/YouKnowWhoElseLikesTo) - fill in le blanc here.
+- [you-know-who-else-likes-to](https://github.com/NatC02/YouKnowWhoElseLikesTo) - you know who else?
 
 - [invincible-title-card](https://github.com/NatC02/Invincible-title-card) - Season 1 title card recreated.
 
