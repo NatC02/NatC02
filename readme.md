@@ -4,6 +4,12 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [circular-illusion](https://github.com/NatC02/circular-illusion) - Experiment with MeshTransmissionMaterial w/ a slider to control the size.
+
+- [ripple-instance](https://github.com/NatC02/ripple-instance) - Instance effect on click for mesh.
+
+- [infinite-wrappable-scroll](https://github.com/NatC02/infinite-wrappable-scroll) - Bidirectional infinite scroll that controls cube mesh in background.
+
 - [clipping-head](https://github.com/NatC02/clipping-head) - A head that has a shader effect applied to it while also being clipped by geometrical shapes.
 
 - [temporal-fragility](https://github.com/NatC02/temporal-fragility) - Applying translucent mesh material with interactive scene.
