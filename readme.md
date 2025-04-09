@@ -4,6 +4,8 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [instance-type](https://github.com/NatC02/instance-type) - Instancing to interactive text scene.
+
 - [circular-illusion](https://github.com/NatC02/circular-illusion) - Experiment with MeshTransmissionMaterial w/ a slider to control the size.
 
 - [ripple-instance](https://github.com/NatC02/ripple-instance) - Instance effect on click for mesh.
