@@ -4,6 +4,10 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [Infinite-wrappable-scroll-v2](https://github.com/NatC02/Infinite-wrappable-scroll-v2) - Repeat, except with loading indicator.
+
+- [spin-fast-hover](https://github.com/NatC02/spin-fast-hover) - an interactive particle made torus knot that spins when hovering fast across.
+
 - [instance-type](https://github.com/NatC02/instance-type) - Instancing to interactive text scene.
 
 - [circular-illusion](https://github.com/NatC02/circular-illusion) - Experiment with MeshTransmissionMaterial w/ a slider to control the size.
