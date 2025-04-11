@@ -1,4 +1,4 @@
-Love writing code. Mostly in Javascript. Training myself to be **language-agnostic**.
+Mostly Javascript. Training myself to be **language-agnostic**.
 <br/>
 See my _pinned repositories_ below.
 
