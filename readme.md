@@ -4,6 +4,10 @@ See my _pinned repositories_ below.
 
 ## Projects & Works:
 
+- [wave](https://github.com/NatC02/wave) - a pulse/wave interaction.
+
+- [shaking-surface](https://github.com/NatC02/shaking-surface) - An interaction that creates a shaking effect.
+
 - [Infinite-wrappable-scroll-v2](https://github.com/NatC02/Infinite-wrappable-scroll-v2) - Repeat, except with loading indicator.
 
 - [spin-fast-hover](https://github.com/NatC02/spin-fast-hover) - an interactive particle made torus knot that spins when hovering fast across.
