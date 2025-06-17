@@ -1,5 +1,3 @@
-Mostly Javascript. Training myself to be **language-agnostic**.
-<br/>
 See my _pinned repositories_ below.
 
 ## Projects & Works:
