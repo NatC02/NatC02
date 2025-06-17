@@ -1,5 +1,3 @@
-See my _pinned repositories_ below.
-
 ## Projects & Works:
 
 - [wave](https://github.com/NatC02/wave) - a pulse/wave interaction.
