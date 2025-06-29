@@ -180,8 +180,6 @@ I'm a fan of "Masters of Scale." Recommended by a friend. I gave it several list
 
 Juggling and learning how to solve Sudoku puzzles every once in a blue moon.
 
-My favorite Youtuber is [Penguinz0 / MoistCritical](https://www.twitch.tv/moistcr1tikal). He has something new going on in his streams!
-
 ## I *really* like
 
 * Technical Writing
