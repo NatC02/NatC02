@@ -4,19 +4,15 @@
  <div align="center">
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="intro.gif" type="video/mp4">
+      <source src="assets/intro.gif" type="video/mp4">
     </video>
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="engine.gif" type="video/mp4">
+      <source src="assets/engine.gif" type="video/mp4">
     </video>
         <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-    <source src="experiments.gif" type="video/mp4">
-    </video>
-    <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
-  #000;">
-      <source src="events.gif" type="video/mp4">
+    <source src="assets/experiments.gif" type="video/mp4">
     </video>
   </div>
 
