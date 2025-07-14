@@ -4,19 +4,19 @@
  <div align="center">
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="intro.mp4" type="video/mp4">
+      <source src="https://github.com/NatC02/NatC02/blob/master/intro.mp4" type="video/mp4">
     </video>
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="engine.mp4" type="video/mp4">
+      <source src="https://github.com/NatC02/NatC02/blob/master/engine.mp4" type="video/mp4">
     </video>
         <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-    <source src="experiments.mp4" type="video/mp4">
+    <source src="https://github.com/NatC02/NatC02/blob/master/experiments.mp4" type="video/mp4">
     </video>
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="events.mp4" type="video/mp4">
+      <source src="https://github.com/NatC02/NatC02/blob/master/events.mp4" type="video/mp4">
     </video>
   </div>
 
