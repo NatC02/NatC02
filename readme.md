@@ -1,5 +1,26 @@
 ## Projects & Works:
 
+
+ ## Demo
+ <div align="center">
+    <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
+  #000;">
+      <source src="intro.mp4" type="video/mp4">
+    </video>
+    <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
+  #000;">
+      <source src="engine.mp4" type="video/mp4">
+    </video>
+        <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
+  #000;">
+    <source src="experiments.mp4" type="video/mp4">
+    </video>
+    <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
+  #000;">
+      <source src="events.mp4" type="video/mp4">
+    </video>
+  </div>
+
 - [wave](https://github.com/NatC02/wave) - a pulse/wave interaction.
 
 - [shaking-surface](https://github.com/NatC02/shaking-surface) - An interaction that creates a shaking effect.
@@ -35,8 +56,6 @@
 - [eyes](https://github.com/NatC02/eyes) - Robo head with tracking eyes and wiggling antenna.
 
 - [falling](https://github.com/NatC02/falling) - A creature from one of my favorite interactive stories.
-
-- [millions-die-or-saved-idk](https://github.com/NatC02/millions-die-or-saved-idk) - Adjusting ALOT of objects LOD (level of detail) based on camera distance.
 
 - [moths-around-light](https://github.com/NatC02/moths-around-light) - Explains itself.
 
