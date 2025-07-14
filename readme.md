@@ -4,15 +4,19 @@
  <div align="center">
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="https://natanceballos.com/assets/intro-DWXt55H2.mp4" type="video/mp4">
+      <source src="intro.gif" type="video/mp4">
     </video>
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-      <source src="https://natanceballos.com/assets/engine-C69PCtuB.mp4" type="video/mp4">
+      <source src="engine.gif" type="video/mp4">
     </video>
         <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
-    <source src="https://natanceballos.com/assets/experiments-BqnUCK9T.mp4" type="video/mp4">
+    <source src="experiments.gif" type="video/mp4">
+    </video>
+    <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
+  #000;">
+      <source src="events.gif" type="video/mp4">
     </video>
   </div>
 
