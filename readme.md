@@ -1,7 +1,6 @@
 ## Projects & Works:
 
 
- ## Demo
  <div align="center">
     <video width="45%" autoplay muted loop playsinline style="margin: 10px; border: 2px solid 
   #000;">
