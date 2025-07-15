@@ -1,4 +1,4 @@
-## Projects & Works:
+#### I craft immersive digital experiences through code, writing, and events, leveraging cutting-edge AR, real-time 3D, and spatial computing.
 
 Feel free to reach me out to me on
 
